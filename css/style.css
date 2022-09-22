@@ -1,0 +1,19 @@
+* {
+	box-sizing: border-box;
+	margin: 0;
+	padding: 0
+}
+
+.title {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: xx-large;
+    color: #AA2C57;
+    text-align: center;
+    font-weight: bold ;
+    margin-top: 2rem;
+}
+.lorem {
+    text-align: center;
+    padding-top: 3rem;
+    font-family: Arial, Helvetica, sans-serif;
+}
