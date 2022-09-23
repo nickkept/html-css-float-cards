@@ -63,11 +63,14 @@ img {
 
   .position{
 float: left;
+padding-top: 1rem;
+padding-bottom: 1rem;
 
   }
 
   .mail{
     float: left;
+    padding-top: 1rem;
    }
 
   a {text-decoration: none;
